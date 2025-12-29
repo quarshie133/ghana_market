@@ -1,3 +1,4 @@
+// API setup (axios instance, baseURL) 
 import axios from 'axios';
 
 // This creates a reusable instance with the base URL already set

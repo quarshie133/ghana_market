@@ -1,0 +1,1 @@
+// ├── types # Global TypeScript types (if using TS later)

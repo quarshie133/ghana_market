@@ -1,0 +1,1 @@
+// # productsApi.js (axios calls to /api/products/)
